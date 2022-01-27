@@ -1,0 +1,28 @@
+.video-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    align-items: center;
+    margin-top: 0px;
+    background: #f7f8fa;
+}
+
+.video-responsive iframe {
+    height: 62%;
+    width: 67%;
+    position: absolute;
+    border: none;
+    vertical-align: middle;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    z-index: 1;
+}
+
+.heading {
+    position: relative;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-left: 120px;
+    color: black;
+}

@@ -1,0 +1,59 @@
+video {
+    object-fit: cover;
+    width: 100%;
+    height: 800px;
+    position: absolute;
+    z-index: -2; 
+    opacity: 100%;
+} 
+
+.hero-container {
+    /*background: url('../../images/mvm_1.jpg') center center/cover no-repeat;*/
+    height: 800px;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    box-shadow: inset 0 0 0 0 rgba(0,0, 0, 0.5);
+    object-fit: contain;
+
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgb(53, 53, 53);
+    mix-blend-mode: overlay;
+    opacity: 100%;
+    z-index: -1;
+
+} 
+
+.hero-container > h1 {
+    color: rgb(255, 255, 255);
+    font-size: 160px;
+    margin-top: 25px;
+    width: 1500px;
+    margin-left: 0;
+    z-index: 2;
+    text-shadow: 0 2px 0 black;
+    letter-spacing: 2px;
+}
+
+.hero-btns {
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    margin-left: 100px;
+    margin-top: 30px;
+    width: 75vw;
+    justify-content: end;
+    grid-gap: 500px;
+    list-style: none;
+}
+
+
+
+    
