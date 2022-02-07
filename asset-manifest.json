@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MWM-Website/static/css/main.22e49c5c.css",
-    "main.js": "/MWM-Website/static/js/main.269b99b1.js",
+    "main.js": "/MWM-Website/static/js/main.03e06eeb.js",
     "static/media/video1.mp4": "/MWM-Website/static/media/video1.3038463323317e2f261c.mp4",
     "static/media/augusto_2.jpg": "/MWM-Website/static/media/augusto_2.f3eebb97d6afbb3bf0e2.jpg",
     "static/media/volunteer_page2.jpg": "/MWM-Website/static/media/volunteer_page2.5416f97b7b4807d55f04.jpg",
@@ -48,10 +48,10 @@
     "static/media/Clarington.jpg": "/MWM-Website/static/media/Clarington.7be11991c28983d8513c.jpg",
     "index.html": "/MWM-Website/index.html",
     "main.22e49c5c.css.map": "/MWM-Website/static/css/main.22e49c5c.css.map",
-    "main.269b99b1.js.map": "/MWM-Website/static/js/main.269b99b1.js.map"
+    "main.03e06eeb.js.map": "/MWM-Website/static/js/main.03e06eeb.js.map"
   },
   "entrypoints": [
     "static/css/main.22e49c5c.css",
-    "static/js/main.269b99b1.js"
+    "static/js/main.03e06eeb.js"
   ]
 }
