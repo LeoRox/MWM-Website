@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7897d7e7.css",
-    "main.js": "/static/js/main.908fcdcf.js",
+    "main.css": "/static/css/main.7b0be0be.css",
+    "main.js": "/static/js/main.5a6b4362.js",
     "static/media/video1.mp4": "/static/media/video1.3038463323317e2f261c.mp4",
     "static/media/augusto_2.jpg": "/static/media/augusto_2.f3eebb97d6afbb3bf0e2.jpg",
     "static/media/volunteer_page2.jpg": "/static/media/volunteer_page2.5416f97b7b4807d55f04.jpg",
@@ -43,16 +43,16 @@
     "static/media/brock_logo.png": "/static/media/brock_logo.1a709ae8efa749ce1d29.png",
     "static/media/sa_logo.png": "/static/media/sa_logo.f292fe02319596ee7372.png",
     "static/media/durham.jpg": "/static/media/durham.b710d3118c4baf4a237f.jpg",
-    "static/media/diocese-toronto.png": "/static/media/diocese-toronto.b63b7e1f18d55eab2b28.png",
+    "static/media/diocese-toronto.png": "/static/media/diocese-toronto.3dbc5243eed9c8c18156.png",
     "static/media/drmwm_logo_new.png": "/static/media/drmwm_logo_new.07c30515d1736614f197.png",
     "static/media/ohcow_logo.png": "/static/media/ohcow_logo.ab7db9f973ee35ae3ed5.png",
     "static/media/Clarington.jpg": "/static/media/Clarington.7be11991c28983d8513c.jpg",
     "index.html": "/index.html",
-    "main.7897d7e7.css.map": "/static/css/main.7897d7e7.css.map",
-    "main.908fcdcf.js.map": "/static/js/main.908fcdcf.js.map"
+    "main.7b0be0be.css.map": "/static/css/main.7b0be0be.css.map",
+    "main.5a6b4362.js.map": "/static/js/main.5a6b4362.js.map"
   },
   "entrypoints": [
-    "static/css/main.7897d7e7.css",
-    "static/js/main.908fcdcf.js"
+    "static/css/main.7b0be0be.css",
+    "static/js/main.5a6b4362.js"
   ]
 }
